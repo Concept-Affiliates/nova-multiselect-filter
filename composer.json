@@ -45,6 +45,9 @@
       "providers": [
         "Outl1ne\\NovaMultiselectFilter\\FilterServiceProvider"
       ]
+    },
+    "branch-alias": {
+        "dev-main": "4.6.1-dev"
     }
   },
   "config": {
